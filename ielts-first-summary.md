@@ -8,6 +8,8 @@
 - a room in proper position
 - **finish writing task in system(realistic sense)**
 - find a proper position for the chair
+- do not drink too much because you do not got a chance for bathroom
+- follow the hints by instructors strictly!
 
 ## examination
 
