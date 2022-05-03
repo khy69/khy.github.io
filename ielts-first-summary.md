@@ -48,3 +48,31 @@
 - do not be easily affected by others but **calm down to think the points and polish sentences**
 - Too many words paly a little role but to **examine the spelling and contexts**
 - do not be neverous about time
+
+## result
+
+![](./img/ielts_first.png)
+
+Just so so...
+
+### listening
+
+- **807!!!**
+- details from passage...
+
+### reading
+
+- Paraphrase!!
+- more skills on comprehension
+
+### writing
+
+- better organization and expression
+- less sentences
+- Exercise regularly
+
+### speaking
+
+- excellent content(same organization as composition) and pronunciation(learn from tiktok)
+- calm down!!!
+- Part3(more videos(friends))
