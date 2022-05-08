@@ -21,3 +21,8 @@ Meaningful:
   - Book,music,exercise,interesting videos,recordings
 
 - take a nap:great chance to reboot and clear mind
+
+### 5.9
+
+- do the things non of others' business to keep happy
+- Bravely touch the ceiling
