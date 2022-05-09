@@ -2,7 +2,7 @@
 
 ## cv
 
-
+[khy_cv](./files/khy-cv.pdf)
 
 ## blog
 

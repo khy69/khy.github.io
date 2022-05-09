@@ -1,2 +1,3 @@
-update.sh
+./update.sh
 !*.png
+!*.pdf
