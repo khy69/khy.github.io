@@ -26,3 +26,7 @@ Meaningful:
 
 - do the things non of others' business to keep happy
 - Bravely touch the ceiling
+
+### 5.10
+
+implementation determines low level while design determines high level
