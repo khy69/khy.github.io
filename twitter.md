@@ -30,3 +30,6 @@ Meaningful:
 ### 5.10
 
 implementation determines low level while design determines high level
+
+- 强者才能一步到位，不要痴迷于他们的故事，理性学习，把握好自己的目标就好，走一些跳板也是非常正常的
+- 只有两个视角：我的目标？如何把事情做好？
