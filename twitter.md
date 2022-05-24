@@ -38,3 +38,8 @@ implementation determines low level while design determines high level
 
 - 真正有效率的时间是理性时间
 - 增加的方式包括但不限于：严格遵守番茄工作法，充分休息，增强专注程度，不上头...
+
+### 5.23
+
+- 普通人只适合一个大目标，全心为之努力，并且在选择之前就要知道下限不低
+- 
