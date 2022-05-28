@@ -1,5 +1,5 @@
 ## Hengyue Kang
 
 ## [Curriculum Vitae](./files/khy-cv.pdf)
-## [Curriculum Vitae(zh)](./files/cv-khy-zh.pdf)
+## [Curriculum Vitae(ch)](./files/cv-khy-zh.pdf)
 
