@@ -42,4 +42,11 @@ implementation determines low level while design determines high level
 ### 5.23
 
 - 普通人只适合一个大目标，全心为之努力，并且在选择之前就要知道下限不低
-- 
+
+### 5.29
+
+- 打铁还需自身硬
+- 六月：报夏令营+connection+preparation for interview(both university and internship)+ielts
+- 7月：according to summer camp ->ielts/master
+- offer：great->quit ielts
+- not：8.29 ielts
