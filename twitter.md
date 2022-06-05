@@ -57,3 +57,7 @@ implementation determines low level while design determines high level
 - connection->提高上限
 
 两个者应该兼而有之，从而提升自己的生存能力
+
+- 大脑的线程调度很重要！
+- 知道自己不想要什么比想要什么更重要
+- need a great schedule!
