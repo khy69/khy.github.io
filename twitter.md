@@ -61,3 +61,4 @@ implementation determines low level while design determines high level
 - 大脑的线程调度很重要！
 - 知道自己不想要什么比想要什么更重要
 - need a great schedule!
+- quality always weights than quantity
