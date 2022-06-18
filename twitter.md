@@ -68,3 +68,7 @@ implementation determines low level while design determines high level
 人前进的路为什么总是被自己挡住？只有自己想把事情做好，自己和别人才是真正可以利用的资源，否则别人和自己永远是绊脚石。
 
 呵呵
+
+## 6.18
+
+把理性和感性剥离，用理性把事情做好，用感性体验人间的快乐——做自己，自己做
