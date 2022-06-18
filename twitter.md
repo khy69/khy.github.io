@@ -62,3 +62,9 @@ implementation determines low level while design determines high level
 - 知道自己不想要什么比想要什么更重要
 - need a great schedule!
 - quality always weights than quantity
+
+## 6.18
+
+人前进的路为什么总是被自己挡住？只有自己想把事情做好，自己和别人才是真正可以利用的资源，否则别人和自己永远是绊脚石。
+
+呵呵
